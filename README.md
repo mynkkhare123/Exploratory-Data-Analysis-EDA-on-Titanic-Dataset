@@ -23,66 +23,67 @@ The Titanic dataset contains information about 891 passengers including:
 # Analysis Steps
 Data Loading & Cleaning
 
-Handled missing values in Age, Cabin, and Embarked columns
+  -Handled missing values in Age, Cabin, and Embarked columns
 
-Removed irrelevant columns (PassengerId, Ticket, Cabin)
+  - Removed irrelevant columns (PassengerId, Ticket, Cabin)
 
 # Statistical Analysis
 
-Calculated survival rates by gender, passenger class, and their combinations
+  - Calculated survival rates by gender, passenger class, and their combinations
 
-Analyzed age distribution and its relationship to survival
+  - Analyzed age distribution and its relationship to survival
 
-Examined correlation between different variables
+  - Examined correlation between different variables
 
 # Visualizations
 
-Age distribution histogram
+  - Age distribution histogram
 
-Survival rates by class and gender
+  - Survival rates by class and gender
 
-Correlation heatmap between numerical features
+  - Correlation heatmap between numerical features
 
 # Key Findings
-Gender Survival Disparity
+  - Gender Survival Disparity
 
-Female survival rate: 74%
+      - Female survival rate: 74%
 
-Male survival rate: 19%
+      - Male survival rate: 19%
 
-Class Impact
+  - Class Impact
 
-1st Class: 63% survival
+    - 1st Class: 63% survival
 
-2nd Class: 47% survival
+    - 2nd Class: 47% survival
 
-3rd Class: 24% survival
+    - 3rd Class: 24% survival
 
-Combined Factors
+  - Combined Factors
 
-1st class females: 97% survival
+    - 1st class females: 97% survival
 
-3rd class males: 13% survival
+    - 3rd class males: 13% survival
 
-Age Patterns
+  - Age Patterns
 
-Children (<10 years) had 59% survival rate
+    - Children (<10 years) had 59% survival rate
 
-Most passengers were 20-40 years old
+    - Most passengers were 20-40 years old
 
 
+# Use Libraries/Tools
+- Pandas
 
-Pandas
+- NumPy
 
-NumPy
+- Matplotlib
 
-Matplotlib
+- Seaborn
 
-Seaborn
+- Jupyter Notebook
 
-Jupyter Notebook
+# Find File
 
-Files
 titanic_eda.ipynb: Jupyter notebook with complete analysis
 
 titanic_eda_assignment.csv: Dataset file
