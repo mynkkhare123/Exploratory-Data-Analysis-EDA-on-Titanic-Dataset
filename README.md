@@ -8,17 +8,17 @@ This project performs a comprehensive Exploratory Data Analysis (EDA) on the fam
 # Dataset
 The Titanic dataset contains information about 891 passengers including:
 
-Survival status (0 = No, 1 = Yes)
+  - Survival status (0 = No, 1 = Yes)
 
-Passenger class (1st, 2nd, 3rd)
+  - Passenger class (1st, 2nd, 3rd)
 
-Name, Gender, Age
+  - Name, Gender, Age
 
-Family relations (Siblings/Spouses, Parents/Children)
+  - Family relations (Siblings/Spouses, Parents/Children)
 
-Ticket and Fare information
+  - Ticket and Fare information
 
-Cabin and Embarkation port
+  - Cabin and Embarkation port
 
 # Analysis Steps
 Data Loading & Cleaning
