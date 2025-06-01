@@ -23,7 +23,7 @@ The Titanic dataset contains information about 891 passengers including:
 # Analysis Steps
 Data Loading & Cleaning
 
-  -Handled missing values in Age, Cabin, and Embarked columns
+  - Handled missing values in Age, Cabin, and Embarked columns
 
   - Removed irrelevant columns (PassengerId, Ticket, Cabin)
 
